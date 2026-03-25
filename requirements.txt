@@ -1,0 +1,21 @@
+# Web Framework & Server
+streamlit==1.35.0
+fastapi==0.111.0
+uvicorn==0.29.0
+
+# Database (Streamlit Cloud ke liye optimized)
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# Data Science & Machine Learning
+# Version 1.6.1 aksar Linux build errors deta hai, 1.4.2 zyada stable hai
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+plotly==5.22.0
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.7.1
+requests==2.32.1
